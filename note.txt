@@ -1,0 +1,14 @@
+Vite
+front end development tool
+can be used for generating different types of project based diff fws and libraries 
+
+
+npm i vite 
+to create raect app - npm create vite@latest
+to install node modules-
+npm i 
+
+to run vite-react app
+npm run dev
+
+app 
